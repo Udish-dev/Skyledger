@@ -1,4 +1,4 @@
-# 🛰️ Space Intelligence Platform
+# 🛰️ Skyledger
 
 **Turning free satellite imagery into decision-ready answers about physical site change — starting with construction & industrial site monitoring.**
 
