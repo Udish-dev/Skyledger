@@ -238,8 +238,8 @@ Full risk register: [`docs/risks.md`](docs/risks.md).
 ## Getting Started
 
 ```bash
-git clone https://github.com/<org>/space-intelligence.git
-cd space-intelligence
+git clone https://github.com/<org>/Skyledger.git
+cd  Skyledger
 
 # Backend
 cd backend
