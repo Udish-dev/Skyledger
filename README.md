@@ -2,8 +2,6 @@
 
 **Turning free satellite imagery into decision-ready answers about physical site change — starting with construction & industrial site monitoring.**
 
-Built by a 3-person student team, weekends only (~8–10 hrs/person/week).
-
 ---
 
 ## Table of Contents
